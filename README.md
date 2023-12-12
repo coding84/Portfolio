@@ -1,4 +1,4 @@
-# Portfolio-
+# Portfolio
 Portfolio about my work skills and talents 
 style.css indicated red message, 
 
