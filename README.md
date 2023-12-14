@@ -20,7 +20,10 @@ Also worked the background with backgroud linear-gradient. was not diffult as us
 
 most of my work too afwul a lot of time as went back to all my classes to revise and practise, as I was ridiclously behind due to software fault set up. 
 
-this time remmebered to update my git lab more often,git add, git commit and git push. 
+pushed several time to my git hub but discovered the hardway i was doing incorectly, should be as follow:
+git add . 
+git commit -m "note" here i was using -a and quotes which is wrong. 
+git push
 
 
 
